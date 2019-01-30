@@ -1,5 +1,3 @@
-# Test
-Test description
 
 if "event" not:work {
   background:color:assignated [#joli-vert]
